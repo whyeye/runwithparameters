@@ -1,0 +1,1 @@
+RunWithParameters allows running any application with a parameter, without going to the command-prompt. Integrated into the shell, a right-click on an executable launches a pop-up window where the user enters a parameter.
